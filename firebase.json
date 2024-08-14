@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"fir-live-score","appId":"1:88412418859:android:08dc17295d202584128b6e","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"fir-live-score","configurations":{"android":"1:88412418859:android:08dc17295d202584128b6e","ios":"1:88412418859:ios:0c0273cf151245f9128b6e"}}}}}}

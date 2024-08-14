@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88412418859",
+    "project_id": "fir-live-score",
+    "storage_bucket": "fir-live-score.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88412418859:android:08dc17295d202584128b6e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_live_score"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUKvivtfLuCntoxTyrAetGv-lzjKEpPwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
